@@ -1,4 +1,4 @@
-# Specimen Mapping Toolkit (R)
+# GBIF Specimen Search & Mapping (R)
 
 R scripts that pull specimen records from GBIF, prepare an IUCN range
 polygon, and map them:
